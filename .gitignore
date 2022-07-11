@@ -12,6 +12,9 @@ log.txt
 *.sublime-workspace
 .vscode/
 npm-debug.log*
+aws-secret.yaml
+env-configmap.yaml
+env-secret.yaml
 
 .idea/
 .ionic/
